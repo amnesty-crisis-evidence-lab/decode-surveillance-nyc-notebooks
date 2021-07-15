@@ -3,3 +3,4 @@ altair
 geopandas
 xlrd
 matplotlib
+openpyxl
